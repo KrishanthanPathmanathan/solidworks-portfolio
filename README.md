@@ -17,7 +17,7 @@ This portfolio showcases SolidWorks design projects with 3D assemblies, technica
 - Followed ASME Y14.5M-1994 standard for dimensioning
 - 📄 [View PDF](KrishanthanPathmanathan_SolidWorks_Portfolio.pdf)
 - 
-- ## 🧱 Project 3: Weldment Frame – Automation Fixture
+## 🧱 Project 3: Weldment Frame – Automation Fixture
 - Designed a steel weldment frame for an automation station using SolidWorks Weldments
 - Utilized structural members, end caps, gussets, and corner trims
 - Generated accurate cut lists and fabrication-ready drawings
